@@ -137,7 +137,7 @@ Adding Eclipse
 *   sudo snap install --classic eclipse
 
 *   Open an Eclipse
-    *   application key - eclipse - open 
+    *   To open eclipse Application : click application key,  type *eclipse* in search box and open 
 
 ### Adding Maven
 *   sudo apt-get install maven
