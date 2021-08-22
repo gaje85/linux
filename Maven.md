@@ -5,7 +5,6 @@
 ## 4) Maven Build Life Cycle
 ## 5) Multi-module projects 
 ## 6) Testing with maven
-## 7) jacoco code coverage and sonar
 
 ## 1) Maven Introduction and Architecture
 >Maven is a Build Tool and Project Management Tool <br>
